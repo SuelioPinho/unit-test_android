@@ -1,6 +1,5 @@
 package br.com.sueliosousa.unittest.unit_testing_fundamentals.example3;
 
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
